@@ -48,9 +48,10 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 
 ### [Week 1 — Sep 2](week-01/)
 **Introduction to tools**
-- Google Forms and Google Sheets
+
 - GitHub and Markdown for documentation
 - Course workflow and expectations
+- Git
 
 **Resources / assignment:** Setup GitHub; Markdown practice; Wilke introduction
 
