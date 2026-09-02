@@ -5,7 +5,6 @@
 ## Topics
 
 - **Introduction to the course** — Syllabus, expectations, and the workflow we will use all semester.
-- **Google Forms and Google Sheets** — Collecting and organizing simple datasets.
 - **GitHub** — Creating a course repository and sharing work with a public link.
 - **Markdown** — Documenting analysis so other people can follow it.
 
