@@ -4,6 +4,7 @@
 
 ## Topics
 
+-  **Chapter 2** [Visualizing data: Mapping data onto aesthetics](https://clauswilke.com/dataviz/aesthetic-mapping.html)
 - **Google Colab** — Running Python in the browser and keeping notebooks reproducible.
 - **Python basics** — Variables, data types, loops, and reading a CSV file.
 - **Plotting primer** — A first look at why a picture can show what summary statistics hide.
