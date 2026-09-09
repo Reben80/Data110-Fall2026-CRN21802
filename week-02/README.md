@@ -10,7 +10,6 @@
 
 ## Resources / assignment
 
-- [10 Minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 - Suggested viewing: [Same Stats, Different Graphs](https://www.youtube.com/watch?v=DbJyPELmhJc)
 
