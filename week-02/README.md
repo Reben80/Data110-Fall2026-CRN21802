@@ -4,7 +4,6 @@
 
 ## Topics
 
-- **Google Sheets** — Organizing tables and making simple charts before moving into Python.
 - **Google Colab** — Running Python in the browser and keeping notebooks reproducible.
 - **Python basics** — Variables, data types, loops, and reading a CSV file.
 - **Plotting primer** — A first look at why a picture can show what summary statistics hide.
