@@ -15,6 +15,7 @@
 - [Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)
 - [Matplotlib colors](https://matplotlib.org/stable/users/explain/colors/colors.html)
 - [Week 4 Slides](https://reben80.github.io/data110-week4/#1)
+- [Week 4 HW](coordinate-systems-axes.ipynb)
 
 Bar charts work well for categorical comparisons. They are a poor fit for many time trends, large category sets, distributions, and precise point-to-point reading. In those cases, prefer a line chart, dot plot, table, or histogram.
 
