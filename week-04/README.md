@@ -14,7 +14,7 @@
 - Wilke, [Chapter 6: Visualizing amounts](https://clauswilke.com/dataviz/visualizing-amounts.html)
 - [Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)
 - [Matplotlib colors](https://matplotlib.org/stable/users/explain/colors/colors.html)
-- Bar-chart lab (posted here and on Blackboard)
+- [Week 4 Slides](https://reben80.github.io/data110-week4/#1)
 
 Bar charts work well for categorical comparisons. They are a poor fit for many time trends, large category sets, distributions, and precise point-to-point reading. In those cases, prefer a line chart, dot plot, table, or histogram.
 
