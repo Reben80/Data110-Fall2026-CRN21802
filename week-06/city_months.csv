@@ -1,0 +1,49 @@
+location,month,mean_temp,departure
+Death Valley,Jan,53.5,-23.7
+Death Valley,Feb,59.9,-17.2
+Death Valley,Mar,68.4,-8.7
+Death Valley,Apr,76.3,-0.8
+Death Valley,May,86.6,9.5
+Death Valley,Jun,95.5,18.4
+Death Valley,Jul,102.2,25.1
+Death Valley,Aug,100.2,23.1
+Death Valley,Sep,91.1,13.9
+Death Valley,Oct,77.1,0.0
+Death Valley,Nov,62.6,-14.5
+Death Valley,Dec,51.7,-25.4
+Houston,Jan,54.0,-16.2
+Houston,Feb,57.3,-12.9
+Houston,Mar,63.3,-6.9
+Houston,Apr,69.9,-0.4
+Houston,May,77.1,6.8
+Houston,Jun,82.0,11.8
+Houston,Jul,83.8,13.6
+Houston,Aug,84.1,13.9
+Houston,Sep,80.1,9.8
+Houston,Oct,72.1,1.9
+Houston,Nov,63.2,-7.1
+Houston,Dec,55.6,-14.6
+San Diego,Jan,55.8,-7.1
+San Diego,Feb,56.5,-6.4
+San Diego,Mar,57.4,-5.6
+San Diego,Apr,59.9,-3.0
+San Diego,May,63.2,0.3
+San Diego,Jun,66.5,3.6
+San Diego,Jul,71.0,8.1
+San Diego,Aug,72.6,9.7
+San Diego,Sep,70.7,7.8
+San Diego,Oct,65.9,3.0
+San Diego,Nov,60.0,-2.9
+San Diego,Dec,55.2,-7.7
+Chicago,Jan,24.8,-26.5
+Chicago,Feb,28.9,-22.4
+Chicago,Mar,38.8,-12.5
+Chicago,Apr,50.4,-0.9
+Chicago,May,60.9,9.6
+Chicago,Jun,71.0,19.7
+Chicago,Jul,75.8,24.5
+Chicago,Aug,74.1,22.8
+Chicago,Sep,66.4,15.1
+Chicago,Oct,54.3,2.9
+Chicago,Nov,41.6,-9.8
+Chicago,Dec,29.0,-22.3
