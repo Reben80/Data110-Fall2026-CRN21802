@@ -48,10 +48,9 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 
 ### [Week 1 — Sep 2](week-01/)
 **Introduction to tools**
-
+- Google Forms and Google Sheets
 - GitHub and Markdown for documentation
 - Course workflow and expectations
-- Git
 
 **Resources / assignment:** Setup GitHub; Markdown practice; Wilke introduction
 
@@ -84,69 +83,73 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 ---
 
 ### [Week 4 — Sep 23](week-04/)
-**Bar graphs with Matplotlib**
-- Simple, grouped, and stacked bar charts
-- Categorical comparisons
-- Axis scales, color, and readability
+**Coordinate systems and axes**
+- What a position on a plot means
+- Cartesian coordinates, units, and aspect ratio
+- Logarithmic scales and polar coordinates
 
-**Resources / assignment:** Wilke Ch. 6; bar-chart lab
+**Resources / assignment:** Wilke Ch. 3; in-class worksheet
 
 📁 [Open week materials →](week-04/)
 
 ---
 
 ### [Week 5 — Sep 30](week-05/)
-**Histograms and KDE**
-- Visualizing distributions
-- Bin width and density estimates
-- Titanic survival factors
+**Visualizing distributions**
+- Where values pile up, and where they are rare
+- Histograms and bin width
+- Density curves
+- Passenger age on the Titanic
 
-**Resources / assignment:** Wilke Ch. 7; Titanic histogram and KDE lab
+**Resources / assignment:** Wilke Ch. 7; in-class worksheet
 
 📁 [Open week materials →](week-05/)
 
 ---
 
 ### [Week 6 — Oct 7](week-06/)
-**Ethics and advanced distributions**
-- Misleading graphs and ethical choices
-- Color and scale decisions
-- Box plots, violin plots, and ridgeline plots
+**Many distributions at once**
+- Box plots, violin plots, sina plots, and ridgelines
+- Twelve months, compared without hiding any of them
+- Daily temperatures in Lincoln, Nebraska, 2016
 
-**Resources / assignment:** Wilke Ch. 9; ethics discussion; Lincoln temperature lab
+**Resources / assignment:** Wilke, many distributions at once; in-class worksheet
 
 📁 [Open week materials →](week-06/)
 
 ---
 
 ### [Week 7 — Oct 14](week-07/)
-**Penguins dataset analysis**
-- Exploratory data visualization in Python
-- Comparative plots and color scales
-- Pair plots and grouping by category
+**Color scales**
+- Color as the carrier of a value
+- Qualitative, sequential, and diverging scales
+- Monthly climate normals for four cities
 
-**Resources / assignment:** Wilke color-scale chapter; Palmer Penguins lab
+**Resources / assignment:** Wilke Ch. 4; in-class worksheet
 
 📁 [Open week materials →](week-07/)
 
 ---
 
 ### [Week 8 — Oct 21](week-08/)
-**Midterm project development**
-- Scoping a question
-- Planning analysis and draft visuals
-- Preparing the Project 1 report
+**Data wrangling, and the Project 1 workshop**
+- Keep rows, pick columns, count groups, and add a column
+- Palmer penguins
+- The question, the dataset, and one draft plot
 
-**Project 1 workshop**
+**Resources / assignment:** In-class worksheet; Project 1 workshop. Presentations are in Week 9.
 
 📁 [Open week materials →](week-08/)
 
 ---
 
 ### [Week 9 — Oct 28](week-09/)
-**Midterm project presentations**
-- Present and refine Project 1
-- Peer feedback
+**Project 1 presentations, and data wrangling 2**
+- One question, a few charts, then the result
+- One number for each group
+- Reshape a table, then bring in a second table
+
+**Resources / assignment:** In-class worksheet; Project 1 presentations
 
 **Project 1 due**
 
@@ -155,24 +158,24 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 ---
 
 ### [Week 10 — Nov 4](week-10/)
-**Visualizing maps with Plotly**
-- Interactive geographic visualization
-- Spatial patterns and heatmaps
-- Storytelling with location data
+**Visualizing proportions**
+- Pie, stacked bar, and side-by-side bars
+- A share that changes from year to year
+- A proportion that contains another proportion
 
-**Resources / assignment:** Plotly / Folium map lab
+**Resources / assignment:** Wilke Ch. 10 and 11; in-class worksheet
 
 📁 [Open week materials →](week-10/)
 
 ---
 
 ### [Week 11 — Nov 11](week-11/)
-**Treemaps and advanced maps**
-- Hierarchical visualizations
-- Choropleth maps and layer controls
-- Plotly techniques for geographic and demographic data
+**Getting to know your data**
+- Accuracy, precision, and a data dictionary
+- Where a file comes from, and whether its codes are real measurements
+- Births in North Carolina, 2001
 
-**Resources / assignment:** Treemap and choropleth lab
+**Resources / assignment:** In-class worksheet
 
 📁 [Open week materials →](week-11/)
 
@@ -266,4 +269,4 @@ For the full College calendar, see the [Academic Year Calendar 2026–2027](http
 
 ---
 
-*Last updated: Fall 2026*
+*Last updated: November 11, 2026*
