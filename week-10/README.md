@@ -15,10 +15,15 @@ Two lectures. Both are in Python, with pandas and matplotlib.
 ## Resources / assignment
 
 - Slides: Visualizing proportions, and Getting to know your data
-- Lab: `visualizing-proportions.ipynb`. Upload `bundestag.csv`, `marketshare.csv`, and `rwanda.csv`.
-- Lab: `know-your-data.ipynb`. Upload `NCbirths.csv`.
+- Lab: [week10_visualizing-proportions.ipynb](week10_visualizing-proportions.ipynb)
 
-Pick the chart for the comparison you want. Read what each code means before you recode it, and do not treat a sentinel number as a measurement.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reben80/Data110-Fall2026-CRN21802/blob/main/week-10/week10_visualizing-proportions.ipynb)
+
+- Lab: [week10_know-your-data.ipynb](week10_know-your-data.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reben80/Data110-Fall2026-CRN21802/blob/main/week-10/week10_know-your-data.ipynb)
+
+Click a badge to open that notebook in Google Colab. The tables load from this repository, so students do not upload CSV files.
 
 ## Notes
 
