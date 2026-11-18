@@ -170,24 +170,24 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 ---
 
 ### [Week 11 — Nov 11](week-11/)
-**Getting to know your data**
-- Accuracy, precision, and a data dictionary
-- Where a file comes from, and whether its codes are real measurements
-- Births in North Carolina, 2001
-
-**Resources / assignment:** In-class worksheet
-
-📁 [Open week materials →](week-11/)
-
----
-
-### [Week 12 — Nov 18](week-12/)
 **Figure design, and compound figures**
 - A default plot is a draft
 - One figure, several panels
 - Shared scales, quiet labels, and matching colors
 
 **Resources / assignment:** Wilke Ch. 21–23; in-class worksheets
+
+📁 [Open week materials →](week-11/)
+
+---
+
+### [Week 12 — Nov 18](week-12/)
+**Storytelling with data**
+- Narrative structure and audience
+- Clarity, annotation, and emphasis
+- Designing a visual argument
+
+**Resources / assignment:** Storytelling workshop; begin final-project framing
 
 📁 [Open week materials →](week-12/)
 

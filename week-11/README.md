@@ -2,27 +2,38 @@
 
 **DATA 110: Data Visualization and Communication**
 
+Two lectures. Both are in Python, with pandas and matplotlib.
+
 ## Topics
 
-- **Treemaps** — Hierarchical part-to-whole displays (for example, population by region and country).
-- **Choropleth maps** — Shaded regions for rates or amounts, with attention to color scales and missing geographies.
-- **Layered interactive maps** — Toggling layers so a reader can compare related spatial datasets.
-- **Other hierarchical views** — Sankey diagrams and bubble charts when they clarify flow or magnitude.
+- **Figure design** — A default plot is a draft. Shape, labels, theme, then color.
+- **Compound figures** — One figure made of several panels. Small multiples, or mixed charts.
+- **Shared scales** — If the panels compare amounts, they share a y axis.
+- **Labels, color, alignment** — Quiet letters a, b, c. The same color means the same thing. Axes line up.
 
 ## Resources / assignment
 
-- Treemap, choropleth, and advanced Plotly lab (posted here and on Blackboard)
-- Example public files used in previous terms:
-  - [World countries data](https://raw.githubusercontent.com/Reben80/Data110-22016/refs/heads/main/dataset/world_countries.csv)
-  - [U.S. county unemployment](https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv)
-  - [GeoJSON counties](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json)
+- Wilke, [Chapter 21: Multi-panel figures](https://clauswilke.com/dataviz/multi-panel-figures.html)
+- Wilke, [Chapter 22: Titles, captions, and tables](https://clauswilke.com/dataviz/figure-titles-captions.html)
+- Wilke, [Chapter 23: Balance the data and the context](https://clauswilke.com/dataviz/balance-data-context.html)
+- Lecture slides: Figure design, and Compound figures (in the Week 11 slides folder)
 
-A choropleth is only as honest as its denominator, color scale, and missing-data handling. Say what the color means.
+**Figure design worksheet**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reben80/Data110-Fall2026-CRN21802/blob/main/week-11/figure-design.ipynb)
+
+[figure-design.ipynb](figure-design.ipynb) — `lincoln_temps.csv` loads from this folder. Penguins use `sns.load_dataset("penguins")`.
+
+**Compound figures worksheet**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reben80/Data110-Fall2026-CRN21802/blob/main/week-11/compound-figures.ipynb)
+
+[compound-figures.ipynb](compound-figures.ipynb) — `BA_degrees.csv` and `penguins.csv` load from the dataset folder.
 
 ## Notes
 
-- This folder is for Week 11 materials: notebooks, slides, datasets, and instructions.
-- Add labs, readings, or assignments here as the week is updated.
+- Do each worksheet in class, after its slides.
+- Final Project overview: [final-project/](../final-project/). Week 13 and Week 14 are for building it.
 
 ---
 
