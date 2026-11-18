@@ -17,6 +17,7 @@ Two lectures. Both are in Python, with pandas and matplotlib.
 - Wilke, [Chapter 22: Titles, captions, and tables](https://clauswilke.com/dataviz/figure-titles-captions.html)
 - Wilke, [Chapter 23: Balance the data and the context](https://clauswilke.com/dataviz/balance-data-context.html)
 - Lecture slides: Figure design, and Compound figures (in the Week 11 slides folder)
+- After-class worksheets (posted here and on Blackboard)
 
 **Figure design worksheet**
 
@@ -32,7 +33,7 @@ Two lectures. Both are in Python, with pandas and matplotlib.
 
 ## Notes
 
-- Do each worksheet in class, after its slides.
+- Do each worksheet after class.
 - Final Project overview: [final-project/](../final-project/). Week 13 and Week 14 are for building it.
 
 ---
