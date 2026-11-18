@@ -182,12 +182,12 @@ This repository is the course hub for DATA 110. Weekly materials, labs, readings
 ---
 
 ### [Week 12 — Nov 18](week-12/)
-**Storytelling with data**
-- Narrative structure and audience
-- Clarity, annotation, and emphasis
-- Designing a visual argument
+**Figure design, and compound figures**
+- A default plot is a draft
+- One figure, several panels
+- Shared scales, quiet labels, and matching colors
 
-**Resources / assignment:** Storytelling workshop; begin final-project framing
+**Resources / assignment:** Wilke Ch. 21–23; in-class worksheets
 
 📁 [Open week materials →](week-12/)
 
