@@ -14,9 +14,11 @@
 - Wilke, [Chapter 22: Titles, captions, and tables](https://clauswilke.com/dataviz/figure-titles-captions.html)
 - Wilke, [Chapter 23: Balance the data and the context](https://clauswilke.com/dataviz/balance-data-context.html)
 - Lecture slides: Figure design (in the Week 12 slides folder)
-- In-class worksheet: [figure-design.ipynb](figure-design.ipynb) (posted here and on Blackboard)
+- In-class worksheet: [figure-design.ipynb](figure-design.ipynb)
 
-Upload `lincoln_temps.csv` in Colab. File → Upload notebook, then the folder icon for the CSV. The penguins scatter uses `sns.load_dataset("penguins")`. Students do not upload that file.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reben80/Data110-Fall2026-CRN21802/blob/main/week-12/figure-design.ipynb)
+
+Click the badge to open the notebook in Google Colab. The temperature table loads from this folder, so students do not upload a CSV. The penguins scatter uses `sns.load_dataset("penguins")`.
 
 ## Notes
 
